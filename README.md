@@ -21,7 +21,7 @@ yarn add @teckel/vue-pdf
 </template>
 
 <script>
-import pdf from 'vue-pdf'
+import pdf from '@teckel/vue-pdf'
 
 export default {
   components: {
