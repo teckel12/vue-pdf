@@ -1,13 +1,17 @@
 # vue-pdf
 vue.js pdf viewer is a package for Vue that enables you to display and view PDF's easily via vue components.
 
+## Fork Info
+Fork of [Franck Freiburger's vue-pdf](https://github.com/FranckFreiburger/vue-pdf) which appears to be abandonded.
+This release fixes a bug which throws the error: "TypeError: Cannot read properties of undefined (reading 'catch')".
+
 ## Install via NPM/Yarn
 ```bash
-npm install vue-pdf
+npm install @teckel12/vue-pdf
 ```
 
 ```bash
-yarn add vue-pdf
+yarn add @teckel12/vue-pdf
 ```
 
 ## Example - basic
