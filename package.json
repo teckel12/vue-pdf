@@ -1,5 +1,5 @@
 {
-  "name": "vue-pdf-fixed-cancel-catch",
+  "name": "@teckel12/vue-pdf",
   "version": "4.2.1",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
