@@ -120,7 +120,7 @@ Triggers when an internal link is clicked
 
 <script>
 
-import pdf from 'vue-pdf'
+import pdf from '@teckel/vue-pdf'
 
 export default {
 	components: {
@@ -154,7 +154,7 @@ export default {
 
 <script>
 
-import pdf from 'vue-pdf'
+import pdf from '@teckel/vue-pdf'
 
 var loadingTask = pdf.createLoadingTask('https://cdn.mozilla.net/pdfjs/tracemonkey.pdf');
 
@@ -217,7 +217,7 @@ export default {
 
 <script>
 
-import pdf from 'vue-pdf'
+import pdf from '@teckel/vue-pdf'
 
 export default {
 	components: {
@@ -262,7 +262,7 @@ export default {
 	</div>
 </template>
 <script>
-import pdf from 'vue-pdf'
+import pdf from '@teckel/vue-pdf'
 
 export default {
 	components: {
