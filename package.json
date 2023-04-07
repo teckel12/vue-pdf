@@ -1,6 +1,6 @@
 {
-  "name": "@teckel12/vue-pdf",
-  "version": "4.2.1",
+  "name": "@teckel/vue-pdf",
+  "version": "4.3.2",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
