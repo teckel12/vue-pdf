@@ -7,11 +7,11 @@ This release fixes a bug which throws the error: "TypeError: Cannot read propert
 
 ## Install via NPM/Yarn
 ```bash
-npm install @teckel12/vue-pdf
+npm install @teckel/vue-pdf
 ```
 
 ```bash
-yarn add @teckel12/vue-pdf
+yarn add @teckel/vue-pdf
 ```
 
 ## Example - basic
