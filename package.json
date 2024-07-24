@@ -1,6 +1,6 @@
 {
   "name": "@teckel/vue-pdf",
-  "version": "4.3.5",
+  "version": "4.3.6",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
@@ -24,7 +24,7 @@
     "loader-utils": "^1.4.0",
     "raw-loader": "^4.0.1",
     "worker-loader": "^2.0.0",
-    "pdfjs-dist": "^2.5.207 <2.8.0",
+    "pdfjs-dist": ">4.2.67",
     "vue-resize-sensor": "^2.0.0"
   },
   "peerDependencies": {}
